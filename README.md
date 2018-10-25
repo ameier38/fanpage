@@ -24,7 +24,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Use CSS to change the background-image of the div with the class of rightPane.
 
 #### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 - [ ] Save and submit your Fanpage website using the link on the Daily Session Document.
 
 ## Day 2
